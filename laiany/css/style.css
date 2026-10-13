@@ -1,0 +1,23 @@
+body{
+    background:linear-gradient(
+        170deg,
+        #101010cc,
+        #82c5dcc6,
+        #5d88cfc6
+    );
+font-family: Arial;
+display: flex;
+justify-content: center;
+align-items: center;
+min-height: 100vh;
+margin: 0;
+}
+
+.container{
+    width: 350px;
+    margin: 50px auto;
+    background-color: rgb(249, 253, 253);
+    padding: 30px;
+    border-radius: 70px;
+    text-align: center;
+}
