@@ -1,9 +1,9 @@
 body{
     background:linear-gradient(
         170deg,
-        #101010cc,
-        #82c5dcc6,
-        #5d88cfc6
+        #640106da,
+        #a63b3b,
+        #000000c6
     );
 font-family: Arial;
 display: flex;
@@ -16,7 +16,7 @@ margin: 0;
 .container{
     width: 350px;
     margin: 50px auto;
-    background-color: rgb(249, 253, 253);
+    background-color: rgb(51, 17, 17);
     padding: 30px;
     border-radius: 70px;
     text-align: center;
